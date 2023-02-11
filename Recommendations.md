@@ -34,8 +34,9 @@ As far as I know, everything on this list is compatibile with each other, as eve
 - **[Blended Roads](https://www.nexusmods.com/skyrimspecialedition/mods/8834)**: improves texture alignment of roads to make them seem more natural
 - **[Simply Bigger Trees](https://www.nexusmods.com/skyrimspecialedition/mods/5281)**: makes all trees like 4x larger without breaking things, for a far more immersive experience. Didn't impact performance.
 - **[Folkvangr - Grass and Landscape Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/44899)**: adds improved textures for grass and landscapes
-- **[Splashes of Storms](https://www.nexusmods.com/skyrimspecialedition/mods/72115)**: adds true rainstorms of varying intensity; highly recommend.
+- **[Splashes of Storms](https://www.nexusmods.com/skyrimspecialedition/mods/72115)**: adds splash effects to rainstorms.
 - **[Enhanced Landscapes](https://www.nexusmods.com/skyrimspecialedition/mods/18162)**: makes major overhauls of flora models and textures to give more life to Skyrim's regions.
+- **[EVLaS](https://www.nexusmods.com/skyrimspecialedition/mods/63725)**: improved volumetric lighting and shadows
 - **[Enhanced Lights and FX](https://www.nexusmods.com/skyrimspecialedition/mods/2424)**: adds considerably better light rendering and casting
 - **[ELFX Shadows](https://www.nexusmods.com/skyrimspecialedition/mods/63790)**: adds better shadow casting
 - **[Realistic Water Two](https://www.nexusmods.com/skyrimspecialedition/mods/2182)**: adds more realistic water animations and meshes for rivers, lakes, etc.
