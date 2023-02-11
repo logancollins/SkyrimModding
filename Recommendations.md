@@ -48,7 +48,7 @@ As far as I know, everything on this list is compatibile with each other, as eve
 
 - **[Alternate Start](https://www.nexusmods.com/skyrimspecialedition/mods/272)**: lets you start the game in 8 or so different places, without going through the intro in Helgen
 - **[KS Hairdos](https://www.nexusmods.com/skyrimspecialedition/mods/6817)**: adds many new high-quality hairstyle options
-Hvergelmir's Aesthetic Series:
+- **Hvergelmir's Aesthetic Series**:
     - **[Brows](https://www.nexusmods.com/skyrimspecialedition/mods/1062)**: adds greatly improved eyebrow textures
     - **[Beards](https://www.nexusmods.com/skyrimspecialedition/mods/1067)**: adds greatly improved beard meshes and textures
 - **[Vitruvia](https://www.nexusmods.com/skyrimspecialedition/mods/9112)**: replaces most skin textures for males
