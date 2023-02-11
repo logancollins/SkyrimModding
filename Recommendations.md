@@ -60,11 +60,11 @@ Hvergelmir's Aesthetic Series:
 - **[Lucien](https://www.nexusmods.com/skyrimspecialedition/mods/20035)**: my second favorite follower mod; Similar to Inigo, has his own questline as well. I recommend having them both together.
 - **[Interesting NPCs (3DNPC)](https://www.nexusmods.com/skyrimspecialedition/mods/29194)**: adds over 250 new voiced NPCs throughout Skyrim with questlines, followers, and more.
 - **Pandorable's NPCs**, adds high-quality reworks of the major female NPCs in the various factions:
-    [The Women](https://www.nexusmods.com/skyrimspecialedition/mods/19012)
-    [The Men, pt 1](https://www.nexusmods.com/skyrimspecialedition/mods/42043)
-    [The Men, pt 2](https://www.nexusmods.com/skyrimspecialedition/mods/50617)
-    [DLC1 NPCs](https://www.nexusmods.com/skyrimspecialedition/mods/24135)
-    [DLC3 NPCs](https://www.nexusmods.com/skyrimspecialedition/mods/30680)
+    - [The Women](https://www.nexusmods.com/skyrimspecialedition/mods/19012)
+    - [The Men, pt 1](https://www.nexusmods.com/skyrimspecialedition/mods/42043)
+    - [The Men, pt 2](https://www.nexusmods.com/skyrimspecialedition/mods/50617)
+    - [DLC1 NPCs](https://www.nexusmods.com/skyrimspecialedition/mods/24135)
+    - [DLC3 NPCs](https://www.nexusmods.com/skyrimspecialedition/mods/30680)
 - **[NPC Animation Remix](https://www.nexusmods.com/skyrimspecialedition/mods/63471)**: adds casual idle animations during conversations
 - **[Gesture Animation Remix](https://www.nexusmods.com/skyrimspecialedition/mods/64420)**: adds casual idle animations during their pathed AI movements
 
