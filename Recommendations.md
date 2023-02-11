@@ -1,16 +1,18 @@
+# Recommendations
+
 A list of cool Skyrim mods I recommend checking out.
 
 Note: all of these are from the perspective of **Skyrim Special Edition**, the remastered version released in 2016. In 2021 this was updated to the "Anniversary Edition", so if you see "SE" and "AE" thrown around, they are almost always interchangeable.
 
 As far as I know, everything on this list is compatibile with each other, as everything here I have running now. There may be conflicts in some places (especially in Environmental mods), but they can usually be sorted easily using Vortex to choose the proper load order.
 
-### Basics
+## Basics
 
 - **[Vortex](https://www.nexusmods.com/about/vortex/)**: the modern mod manager
 - **[Unofficial Skyrim Patch](https://www.nexusmods.com/skyrimspecialedition/mods/266)**: fixes a ton of random bugs and issues
 - **[Skyrim Script Extender](https://www.nexusmods.com/skyrimspecialedition/mods/30379)**: I _believe_ Vortex installs this automatically nowadays on first deploy
 
-### UI / Quality of Life
+## UI / Quality of Life
 
 - **[SkyUI](https://www.nexusmods.com/skyrimspecialedition/mods/12604)**: sounds like you've used this before
 - **[TrueHUD](https://www.nexusmods.com/skyrimspecialedition/mods/62775)**: brings a high-res modern battle HUD including over-enemy health gauges
@@ -23,7 +25,7 @@ As far as I know, everything on this list is compatibile with each other, as eve
 - **[Auto Input Switch](https://www.nexusmods.com/skyrimspecialedition/mods/54309)**: adds autoswap between mouse/keyboard and controller like most modern games.
 - **[RaceMenu](https://www.nexusmods.com/skyrimspecialedition/mods/19080)**: a massively overhauled character creator giving full control over everything
 
-### Environmental
+## Environmental
 
 - **[Daedric Shrines collection](https://next.nexusmods.com/skyrimspecialedition/collections/tdqfkc)**: adds high-res models for the 12 daedric shrines
 - **JK's Environmental Mods**: (there are many, just search for "JK's", but these are particularly good):
@@ -42,7 +44,7 @@ As far as I know, everything on this list is compatibile with each other, as eve
 - **[Volumetric Mists](https://www.nexusmods.com/skyrimspecialedition/mods/29273)**: adds more realistic fog and mists to regions. May be GPU-taxing.
 - **[FSMP](https://www.nexusmods.com/skyrimspecialedition/mods/57339)**: improves render speed of cloth-like meshes (capes, clothes, hair, etc.)
 
-### Character
+## Character
 
 - **[Alternate Start](https://www.nexusmods.com/skyrimspecialedition/mods/272)**: lets you start the game in 8 or so different places, without going through the intro in Helgen
 - **[KS Hairdos](https://www.nexusmods.com/skyrimspecialedition/mods/6817)**: adds many new high-quality hairstyle options
@@ -52,7 +54,7 @@ Hvergelmir's Aesthetic Series:
 - **[Vitruvia](https://www.nexusmods.com/skyrimspecialedition/mods/9112)**: replaces most skin textures for males
 - **[Fine Face Textures for Men](https://www.nexusmods.com/skyrimspecialedition/mods/4759)**: adds some younger-looking facial complexions for male characters, since Skyrim PCs tend to look age 60+.
 
-### NPCs
+## NPCs
 
 - **[Inigo](https://www.nexusmods.com/skyrimspecialedition/mods/1461)**: arguably the best follower for the game; fully voiced, lore-friendly, has his own questline.
 - **[Lucien](https://www.nexusmods.com/skyrimspecialedition/mods/20035)**: my second favorite follower mod; Similar to Inigo, has his own questline as well. I recommend having them both together.
@@ -66,11 +68,11 @@ Hvergelmir's Aesthetic Series:
 - **[NPC Animation Remix](https://www.nexusmods.com/skyrimspecialedition/mods/63471)**: adds casual idle animations during conversations
 - **[Gesture Animation Remix](https://www.nexusmods.com/skyrimspecialedition/mods/64420)**: adds casual idle animations during their pathed AI movements
 
-### Questlines
+## Questlines
 
 - **[The Paarthurnax Dilemma](https://www.nexusmods.com/skyrimspecialedition/mods/365)**: fixes the fact that Delphine gives you no option not to kill Paarthurnax.
 
-### Weapons, Armors, etc.
+## Weapons, Armors, etc.
 
 - **[Immersive Armors](https://www.nexusmods.com/skyrimspecialedition/mods/3479)**: adds a ton of new lore-friendly armors to the game to improve asset reuse and atmosphere
     - **[Immersive Armors Retexture Patch](https://www.nexusmods.com/skyrimspecialedition/mods/75891)**: a patch to Immersive Armors, as the former hasn't been updated since 2016.
