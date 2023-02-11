@@ -15,7 +15,7 @@ As far as I know, everything on this list is compatibile with each other, as eve
 ## UI / Quality of Life
 
 - **[SkyUI](https://www.nexusmods.com/skyrimspecialedition/mods/12604)**: replaces the vanilla item / magic management UIs with a more modern RPG-inspired one
-- **[TrueHUD](https://www.nexusmods.com/skyrimspecialedition/mods/62775)**: brings a high-res modern battle HUD including over-enemy health gauges and top-screen boss guages
+- **[TrueHUD](https://www.nexusmods.com/skyrimspecialedition/mods/62775)**: brings a high-res modern battle HUD including over-enemy health gauges and top-screen boss gauges
 - **[Detection Meter NG](https://www.nexusmods.com/skyrimspecialedition/mods/77350)**: brings AC-style sneak indicators; "NG" is the version for Skyrim "AE", e.g. 1.6+.
 - **Third-person improvements**:
     - **[Better Third Person Selection](https://www.nexusmods.com/skyrimspecialedition/mods/64339)**: DA:I / Witcher3-style third-person item selection
