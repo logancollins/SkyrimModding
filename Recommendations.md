@@ -65,6 +65,7 @@ Hvergelmir's Aesthetic Series:
     - [The Men, pt 2](https://www.nexusmods.com/skyrimspecialedition/mods/50617)
     - [DLC1 NPCs](https://www.nexusmods.com/skyrimspecialedition/mods/24135)
     - [DLC3 NPCs](https://www.nexusmods.com/skyrimspecialedition/mods/30680)
+- **[Snow Elves of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/81981)**: adds improved appearance for two specific Dawnguard NPCs, better than Pandorables IMO (install alongside, load this after Pandorable's Dawnguard)
 - **[NPC Animation Remix](https://www.nexusmods.com/skyrimspecialedition/mods/63471)**: adds casual idle animations during conversations
 - **[Gesture Animation Remix](https://www.nexusmods.com/skyrimspecialedition/mods/64420)**: adds casual idle animations during their pathed AI movements
 
