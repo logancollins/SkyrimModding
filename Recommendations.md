@@ -57,7 +57,7 @@ As far as I know, everything on this list is compatibile with each other, as eve
 ## NPCs
 
 - **[Inigo](https://www.nexusmods.com/skyrimspecialedition/mods/1461)**: arguably the best follower for the game; fully voiced, lore-friendly, has his own questline.
-- **[Lucien](https://www.nexusmods.com/skyrimspecialedition/mods/20035)**: my second favorite follower mod; Similar to Inigo, has his own questline as well. I recommend having them both together.
+- **[Lucien](https://www.nexusmods.com/skyrimspecialedition/mods/20035)**: my second favorite follower mod; Similar to Inigo, has his own questline as well. I recommend having them both together, as they can interact.
 - **[Interesting NPCs (3DNPC)](https://www.nexusmods.com/skyrimspecialedition/mods/29194)**: adds over 250 new voiced NPCs throughout Skyrim with questlines, followers, and more.
 - **Pandorable's NPCs**, adds high-quality appearance reworks of the major NPCs in the game's various factions:
     - [The Women](https://www.nexusmods.com/skyrimspecialedition/mods/19012)
