@@ -31,10 +31,10 @@ As far as I know, everything on this list is compatibile with each other, as eve
 - **JK's Environmental Mods**: (there are many, just search for "JK's", but these are particularly good):
     - **[JK's Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/6289)**: improvements to every major city. Not particularly GPU-taxing.
     - **[JK's College of Winterhold](https://www.nexusmods.com/skyrimspecialedition/mods/65676)**: same as above, but for the College.
+- **[Obsidian Weathers and Seasons](https://www.nexusmods.com/skyrimspecialedition/mods/12125)**: adds true rainstorms, snowstorms, and other weather effects; highly recommended;
 - **[Blended Roads](https://www.nexusmods.com/skyrimspecialedition/mods/8834)**: improves texture alignment of roads to make them seem more natural
 - **[Simply Bigger Trees](https://www.nexusmods.com/skyrimspecialedition/mods/5281)**: makes all trees like 4x larger without breaking things, for a far more immersive experience. Didn't impact performance.
 - **[Folkvangr - Grass and Landscape Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/44899)**: adds improved textures for grass and landscapes
-- **[Obsidian Weathers and Seasons](https://www.nexusmods.com/skyrimspecialedition/mods/12125)**: adds true rainstorms, snowstorms, and other weather effects; highly recommended;
 - **[Splashes of Storms](https://www.nexusmods.com/skyrimspecialedition/mods/72115)**: adds splash effects to rainstorms.
 - **[Enhanced Landscapes](https://www.nexusmods.com/skyrimspecialedition/mods/18162)**: makes major overhauls of flora models and textures to give more life to Skyrim's regions.
 - **[EVLaS](https://www.nexusmods.com/skyrimspecialedition/mods/63725)**: improved volumetric lighting and shadows
